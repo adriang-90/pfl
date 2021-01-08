@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 
-# Filename: password_checker.py
+# Filename: plf_requests.py
 
-"""PLC is a simple password leak checker that checks if your password has ever been leaked."""
+"""PLF is a simple password leak checker that checks if your password has ever been leaked."""
 
 __version__ = '0.1'
 __author__ = 'Adrian Gąsior'
