@@ -32,7 +32,7 @@ Then just follow the instruction
 
 ## About the Author
 
-My name is Adrian Gąsior. I'm an aspiring ML eng that try to master python. 
+My name is Adrian Gąsior. I'm an aspiring ML eng who tries to master python. 
 
 ## License
 
