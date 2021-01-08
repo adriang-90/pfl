@@ -1,4 +1,4 @@
-# Password leak checker - pfl
+# Password leak finder - plf
 PFL is a sample program implemented using Python 3 and PyQt5 GUI. It makes use of a **famous** website https://haveibeenpwned.com/ and its API.
 
 # How it works....
