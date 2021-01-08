@@ -3,7 +3,7 @@
 
 # Filename: PLF.py
 
-"""PLC is a simple password leak finder that checks if your password has ever been leaked."""
+"""PLF is a simple password leak finder that checks if your password has ever been leaked."""
 
 __version__ = '0.1'
 __author__ = 'Adrian Gąsior'
