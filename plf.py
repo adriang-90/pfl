@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 
-# Filename: PLC.py
+# Filename: PLF.py
 
 """PLC is a simple password leak finder that checks if your password has ever been leaked."""
 
